@@ -35,7 +35,7 @@ def first_challenge
           },
           :heroine_friends =>[
               {:name => "Steven", :age =>"30", :status => "confused"},
-              {:name =>"", :age =>"", :status =>""}
+              {:name =>"Nurse", :age =>"44", :status =>"worried"}
             ]
       }
    }
